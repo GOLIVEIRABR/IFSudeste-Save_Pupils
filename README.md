@@ -1,17 +1,12 @@
-# flutter_draft
+# IFSudeste - Espec. em Desenv. Web e Mobile
+## Atividade 6
 
-rascunho do código final
+### Descrição
 
-## Getting Started
+Esta é a sexta atividade da disciplina de **Tecnologias Frontend** do curso de especialização em **Desenvolvimento Web e Mobile do IFSudeste - Campus Rio Pomba**. O seu objetivo foi apresentar características iniciais do Flutter.
 
-This project is a starting point for a Flutter application.
+Maiores informações estão no vídeo abaixo:
 
-A few resources to get you started if this is your first Flutter project:
+[![Assista o vídeo](http://img.youtube.com/vi/pU1AeEJn2Zc/0.jpg)](http://www.youtube.com/watch?v=pU1AeEJn2Zc "IFSudeste - Espec. Des. Web e Mobile - Tecnologias Frontend - Atv 5")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# IFSudeste-Save_Pupils
+Link do App online: https://demonstration-dark-mode.herokuapp.com/
