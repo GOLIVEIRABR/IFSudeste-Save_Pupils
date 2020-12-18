@@ -7,6 +7,4 @@ Esta é a sexta atividade da disciplina de **Tecnologias Frontend** do curso de 
 
 Maiores informações estão no vídeo abaixo:
 
-[![Assista o vídeo](http://img.youtube.com/vi/pU1AeEJn2Zc/0.jpg)](http://www.youtube.com/watch?v=pU1AeEJn2Zc "IFSudeste - Espec. Des. Web e Mobile - Tecnologias Frontend - Atv 5")
-
-Link do App online: https://demonstration-dark-mode.herokuapp.com/
+[![Assista o vídeo](http://img.youtube.com/vi/XjozW1vFluE/0.jpg)](http://www.youtube.com/watch?v=XjozW1vFluE "IFSudeste - Espec. Des. Web e Mobile - Tecnologias Frontend - Atv 5")
